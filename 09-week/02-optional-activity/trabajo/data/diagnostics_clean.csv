@@ -1,0 +1,241 @@
+session_id,date,plate,brand,model,year,fuel,dtc_code,symptom,rpm,coolant_temp_c,battery_v,map_kpa,mileage_km,technician,repair_cost_cop
+S0156,2026-01-20,QRS-444,Volkswagen,Gol,2012,gasoline,P0171,Consumo alto,908.0,86.0,12.39,38.0,94193,Luis Perez,900000
+S0149,2026-05-10,LMN-333,Suzuki,Swift,2013,gasoline,P0420,Pierde potencia al acelerar,817.0,88.3,12.14,33.9,163367,Ana Gomez,80000
+S0090,2026-09-05,NEI-789,Mazda,CX-5,2020,gasoline,P0299,Vibración en ralentí,720.0,87.9,12.75,38.0,156313,Luis Perez,150000
+S0104,2026-07-08,ABC-111,Hyundai,Tucson,2021,gasoline,P0171,Luz MIL encendida,843.0,85.5,12.56,36.8,111926,Luis Perez,900000
+S0209,2026-01-11,NEI-789,Mazda,CX-5,2020,gasoline,P0562,Ralentí inestable,764.0,85.7,12.51,36.1,50168,Ana Gomez,150000
+S0055,2026-09-24,ABC-111,Hyundai,Tucson,2021,gasoline,P0299,Arranque difícil,836.0,99.0,12.56,40.4,144183,Luis Perez,900000
+S0217,2026-08-24,GAR-654,Kia,Picanto,2019,gasoline,P0299,Arranque difícil,801.0,88.3,12.63,42.5,133728,Marta Soto,150000
+S0235,2026-08-27,ABC-111,Hyundai,Tucson,2021,gasoline,P0118,Ralentí inestable,888.0,95.6,12.68,37.9,38570,Luis Perez,150000
+S0177,2026-09-15,PIT-987,Nissan,Frontier,2017,diesel,P0101,Luz MIL encendida,708.0,90.5,12.87,36.6,80544,Ana Gomez,0
+S0237,2026-02-14,LMN-333,Suzuki,Swift,2013,gasoline,P0299,Luz MIL encendida,898.0,82.7,12.15,63.9,147894,Carlos Ruiz,150000
+S0170,2026-04-16,GAR-654,Kia,Picanto,2019,gasoline,P0420,Ralentí inestable,841.0,94.1,13.66,35.9,105760,Marta Soto,900000
+S0116,2026-06-10,ABC-111,Hyundai,Tucson,2021,gasoline,P0562,Luz MIL encendida,843.0,92.6,12.4,41.8,163680,Luis Perez,80000
+S0051,2026-04-04,XYZ-222,Ford,Ranger,2014,diesel,P0118,Ralentí inestable,818.0,81.9,12.87,49.1,218313,Luis Perez,0
+S0083,2026-05-23,XYZ-222,Ford,Ranger,2014,diesel,P0299,Arranque difícil,846.0,92.5,12.54,47.6,68160,Marta Soto,80000
+S0154,2026-05-18,TLM-321,Toyota,Hilux,2015,diesel,P0118,Ralentí inestable,791.0,85.1,13.08,46.8,185139,Ana Gomez,450000
+S0216,2026-05-05,ABC-111,Hyundai,Tucson,2021,gasoline,P0299,Pierde potencia al acelerar,843.0,92.8,12.76,46.2,108578,Luis Perez,320000
+S0159,2026-07-28,GAR-654,Kia,Picanto,2019,gasoline,P0171,Ralentí inestable,976.0,87.5,12.96,29.1,219039,Ana Gomez,150000
+S0122,2026-08-23,HUA-123,Chevrolet,Spark,2018,gasoline,P0299,Luz MIL encendida,769.0,89.0,12.01,52.1,131558,Carlos Ruiz,320000
+S0150,2026-08-26,NEI-789,Mazda,CX-5,2020,gasoline,P0299,Pierde potencia al acelerar,800.0,95.0,11.48,45.5,64018,Carlos Ruiz,450000
+S0028,2026-01-09,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Luz MIL encendida,775.0,83.0,12.95,43.5,64293,Ana Gomez,900000
+S0120,2026-02-28,HUB-456,Renault,Logan,2016,gasoline,P0118,Arranque difícil,801.0,87.3,11.73,34.8,40753,Ana Gomez,320000
+S0081,2026-05-26,HUB-456,Renault,Logan,2016,gasoline,P0171,Consumo alto,807.0,88.3,12.91,44.6,206778,Luis Perez,450000
+S0185,2026-09-05,HUA-123,Chevrolet,Spark,2018,gasoline,P0171,Consumo alto,830.0,90.5,11.89,44.5,219603,Luis Perez,0
+S0186,2026-02-07,HUA-123,Chevrolet,Spark,2018,gasoline,P0118,Pierde potencia al acelerar,767.0,93.6,12.46,41.5,48092,Luis Perez,320000
+S0078,2026-09-18,PIT-987,Nissan,Frontier,2017,diesel,P0101,Ralentí inestable,799.0,91.2,12.83,50.6,179893,Marta Soto,320000
+S0013,2026-03-25,NEI-789,Mazda,CX-5,2020,gasoline,P0101,Pierde potencia al acelerar,980.0,86.7,13.07,41.3,158085,Luis Perez,0
+S0193,2026-04-17,NEI-789,Mazda,CX-5,2020,gasoline,P0118,Vibración en ralentí,843.0,91.7,13.38,38.1,75910,Marta Soto,900000
+S0115,2026-08-20,NEI-789,Mazda,CX-5,2020,gasoline,P0562,Arranque difícil,873.0,89.0,12.77,38.3,184369,Carlos Ruiz,320000
+S0145,2026-04-03,HUA-123,Chevrolet,Spark,2018,gasoline,P0299,Luz MIL encendida,811.0,93.7,12.1,41.3,208012,Luis Perez,320000
+S0085,2026-08-09,XYZ-222,Ford,Ranger,2014,diesel,P0118,Pierde potencia al acelerar,786.0,80.7,12.28,43.1,173287,Marta Soto,80000
+S0223,2026-06-22,TLM-321,Toyota,Hilux,2015,diesel,P0118,Consumo alto,839.0,90.3,13.2,41.1,134757,Carlos Ruiz,150000
+S0076,2026-08-16,ABC-111,Hyundai,Tucson,2021,gasoline,P0562,Luz MIL encendida,818.0,90.7,12.8,49.6,65784,Marta Soto,0
+S0226,2026-09-07,XYZ-222,Ford,Ranger,2014,diesel,P0562,Pierde potencia al acelerar,834.0,91.8,12.52,35.5,47609,Carlos Ruiz,150000
+S0024,2026-09-14,QRS-444,Volkswagen,Gol,2012,gasoline,P0300,Vibración en ralentí,843.0,88.3,12.54,37.7,133752,Luis Perez,80000
+S0044,2026-05-03,GAR-654,Kia,Picanto,2019,gasoline,P0171,Vibración en ralentí,843.0,94.3,12.39,41.2,90623,Ana Gomez,320000
+S0046,2026-05-12,XYZ-222,Ford,Ranger,2014,diesel,P0300,Ralentí inestable,940.0,80.1,12.02,46.8,173165,Marta Soto,450000
+S0189,2026-05-01,HUA-123,Chevrolet,Spark,2018,gasoline,P0562,Luz MIL encendida,815.0,84.4,11.87,39.8,94883,Ana Gomez,320000
+S0162,2026-06-13,PIT-987,Nissan,Frontier,2017,diesel,P0562,Arranque difícil,846.0,93.8,12.77,49.2,49275,Marta Soto,320000
+S0091,2026-03-03,HUB-456,Renault,Logan,2016,gasoline,P0171,Pierde potencia al acelerar,911.0,83.8,13.64,40.0,176096,Marta Soto,150000
+S0220,2026-09-06,QRS-444,Volkswagen,Gol,2012,gasoline,P0420,Unknown,914.0,88.4,12.49,35.8,106370,Marta Soto,900000
+S0187,2026-03-25,ABC-111,Hyundai,Tucson,2021,gasoline,P0299,Consumo alto,936.0,89.0,11.5,51.0,130264,Marta Soto,320000
+S0097,2026-08-28,TLM-321,Toyota,Hilux,2015,diesel,P0300,Ralentí inestable,846.0,83.9,12.53,41.3,117427,Ana Gomez,80000
+S0152,2026-06-17,XYZ-222,Ford,Ranger,2014,diesel,P0118,Arranque difícil,925.0,84.0,12.44,39.1,63825,Carlos Ruiz,320000
+S0132,2026-07-08,LMN-333,Suzuki,Swift,2013,gasoline,P0101,Ralentí inestable,840.0,88.3,13.29,37.2,200383,Ana Gomez,150000
+S0098,2026-09-25,HUB-456,Renault,Logan,2016,gasoline,P0562,Luz MIL encendida,756.0,85.3,12.67,52.3,186233,Ana Gomez,0
+S0236,2026-08-15,NEI-789,Mazda,CX-5,2020,gasoline,P0562,Pierde potencia al acelerar,772.0,89.6,12.54,49.5,126170,Marta Soto,450000
+S0014,2026-04-02,GAR-654,Kia,Picanto,2019,gasoline,P0299,Ralentí inestable,874.0,89.3,12.45,42.2,169645,Marta Soto,80000
+S0126,2026-03-05,TLM-321,Toyota,Hilux,2015,diesel,P0299,Vibración en ralentí,846.0,98.4,12.1,41.6,168027,Luis Perez,0
+S0144,2026-01-26,GAR-654,Kia,Picanto,2019,gasoline,P0118,Ralentí inestable,821.0,85.5,11.94,41.2,71939,Marta Soto,0
+S0225,2026-02-16,PIT-987,Nissan,Frontier,2017,diesel,P0300,Luz MIL encendida,718.0,90.3,13.31,51.5,67139,Luis Perez,150000
+S0077,2026-05-17,PIT-987,Nissan,Frontier,2017,diesel,P0562,Consumo alto,840.0,94.1,11.34,30.5,158356,Marta Soto,80000
+S0025,2026-02-25,XYZ-222,Ford,Ranger,2014,diesel,P0101,Luz MIL encendida,641.0,94.7,12.76,41.9,85877,Ana Gomez,450000
+S0053,2026-05-25,HUB-456,Renault,Logan,2016,gasoline,P0118,Consumo alto,825.0,88.5,13.3,40.9,121017,Luis Perez,450000
+S0049,2026-07-25,PIT-987,Nissan,Frontier,2017,diesel,P0101,Arranque difícil,851.0,80.6,12.6,44.5,35081,Carlos Ruiz,900000
+S0058,2026-07-24,HUB-456,Renault,Logan,2016,gasoline,P0299,Pierde potencia al acelerar,808.0,88.7,11.98,43.4,147486,Luis Perez,0
+S0195,2026-04-08,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Arranque difícil,843.0,87.8,12.47,42.5,138180,Ana Gomez,320000
+S0173,2026-04-20,NEI-789,Mazda,CX-5,2020,gasoline,P0300,Luz MIL encendida,974.0,93.4,12.64,46.3,56266,Marta Soto,320000
+S0057,2026-04-16,PIT-987,Nissan,Frontier,2017,diesel,P0299,Pierde potencia al acelerar,866.0,85.6,13.05,35.6,102422,Ana Gomez,450000
+S0166,2026-07-04,PIT-987,Nissan,Frontier,2017,diesel,P0118,Luz MIL encendida,804.0,100.0,12.99,35.9,186476,Ana Gomez,320000
+S0105,2026-02-16,NEI-789,Mazda,CX-5,2020,gasoline,P0118,Pierde potencia al acelerar,863.0,88.1,13.14,47.6,64108,Luis Perez,450000
+S0113,2026-03-14,XYZ-222,Ford,Ranger,2014,diesel,P0118,Unknown,782.0,95.3,11.84,42.0,122842,Carlos Ruiz,0
+S0230,2026-05-04,TLM-321,Toyota,Hilux,2015,diesel,P0171,Arranque difícil,846.0,85.3,12.25,35.8,190250,Carlos Ruiz,320000
+S0213,2026-03-09,HUB-456,Renault,Logan,2016,gasoline,P0300,Pierde potencia al acelerar,843.0,83.1,12.56,36.8,57931,Luis Perez,0
+S0229,2026-04-23,ABC-111,Hyundai,Tucson,2021,gasoline,P0300,Luz MIL encendida,833.0,97.7,12.75,41.3,170742,Luis Perez,80000
+S0201,2026-06-07,GAR-654,Kia,Picanto,2019,gasoline,P0299,Luz MIL encendida,767.0,96.5,12.02,41.3,209528,Marta Soto,150000
+S0191,2026-08-02,HUB-456,Renault,Logan,2016,gasoline,P0420,Arranque difícil,793.0,81.1,12.6,43.8,145071,Ana Gomez,80000
+S0208,2026-04-08,LMN-333,Suzuki,Swift,2013,gasoline,P0300,Arranque difícil,902.0,86.3,12.75,42.7,103498,Carlos Ruiz,450000
+S0119,2026-05-15,HUB-456,Renault,Logan,2016,gasoline,P0171,Luz MIL encendida,803.0,87.5,13.0,45.0,39858,Luis Perez,0
+S0075,2026-02-27,HUB-456,Renault,Logan,2016,gasoline,P0299,Vibración en ralentí,932.0,87.6,13.13,53.5,106509,Luis Perez,450000
+S0147,2026-02-18,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Ralentí inestable,865.0,82.3,12.72,50.1,211922,Carlos Ruiz,320000
+S0079,2026-08-24,HUA-123,Chevrolet,Spark,2018,gasoline,P0101,Consumo alto,900.0,87.5,13.31,41.2,200922,Carlos Ruiz,80000
+S0064,2026-05-26,NEI-789,Mazda,CX-5,2020,gasoline,P0299,Arranque difícil,843.0,88.3,12.65,33.8,192114,Marta Soto,80000
+S0184,2026-03-05,QRS-444,Volkswagen,Gol,2012,gasoline,P0420,Arranque difícil,890.0,85.7,12.33,33.4,158143,Marta Soto,0
+S0088,2026-05-16,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Vibración en ralentí,806.0,87.1,12.24,41.3,207671,Ana Gomez,900000
+S0106,2026-07-12,HUB-456,Renault,Logan,2016,gasoline,P0171,Ralentí inestable,897.0,91.3,12.53,44.6,163015,Marta Soto,80000
+S0039,2026-03-26,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Luz MIL encendida,912.0,93.1,12.36,38.0,91569,Ana Gomez,900000
+S0073,2026-09-07,ABC-111,Hyundai,Tucson,2021,gasoline,P0300,Ralentí inestable,799.0,85.9,12.56,42.7,100007,Luis Perez,450000
+S0038,2026-01-27,ABC-111,Hyundai,Tucson,2021,gasoline,P0420,Consumo alto,843.0,95.2,12.09,37.8,151893,Ana Gomez,320000
+S0026,2026-06-08,PIT-987,Nissan,Frontier,2017,diesel,P0300,Pierde potencia al acelerar,912.0,97.9,12.44,42.0,201435,Luis Perez,450000
+S0125,2026-09-05,PIT-987,Nissan,Frontier,2017,diesel,P0562,Luz MIL encendida,812.0,90.3,12.35,42.0,77254,Marta Soto,80000
+S0212,2026-06-08,XYZ-222,Ford,Ranger,2014,diesel,P0171,Luz MIL encendida,909.0,88.1,12.54,34.0,52464,Ana Gomez,450000
+S0114,2026-02-15,ABC-111,Hyundai,Tucson,2021,gasoline,P0300,Pierde potencia al acelerar,843.0,87.0,12.5,36.0,60192,Luis Perez,320000
+S0137,2026-01-16,ABC-111,Hyundai,Tucson,2021,gasoline,P0562,Ralentí inestable,806.0,93.2,12.56,36.4,47710,Carlos Ruiz,150000
+S0206,2026-07-12,ABC-111,Hyundai,Tucson,2021,gasoline,P0300,Vibración en ralentí,682.0,84.0,12.69,51.0,51133,Carlos Ruiz,900000
+S0190,2026-02-24,GAR-654,Kia,Picanto,2019,gasoline,P0299,Ralentí inestable,873.0,85.1,12.68,29.6,34101,Carlos Ruiz,80000
+S0037,2026-09-10,ABC-111,Hyundai,Tucson,2021,gasoline,P0118,Arranque difícil,843.0,96.9,12.12,48.9,75620,Luis Perez,450000
+S0060,2026-04-09,GAR-654,Kia,Picanto,2019,gasoline,P0101,Ralentí inestable,841.0,85.7,12.56,27.3,210922,Ana Gomez,80000
+S0009,2026-09-24,NEI-789,Mazda,CX-5,2020,gasoline,P0299,Arranque difícil,844.0,96.6,12.92,38.4,87493,Marta Soto,80000
+S0052,2026-05-01,HUB-456,Renault,Logan,2016,gasoline,P0420,Vibración en ralentí,783.0,78.7,12.1,47.7,49922,Ana Gomez,450000
+S0123,2026-02-11,PIT-987,Nissan,Frontier,2017,diesel,P0300,Luz MIL encendida,829.0,86.3,12.5,33.3,187994,Carlos Ruiz,80000
+S0169,2026-09-07,NEI-789,Mazda,CX-5,2020,gasoline,P0420,Luz MIL encendida,918.0,89.9,11.88,52.5,150498,Luis Perez,450000
+S0231,2026-08-28,PIT-987,Nissan,Frontier,2017,diesel,P0101,Vibración en ralentí,892.0,96.6,12.88,29.2,184709,Ana Gomez,0
+S0141,2026-07-12,HUB-456,Renault,Logan,2016,gasoline,P0562,Consumo alto,845.0,79.4,12.56,52.6,160076,Luis Perez,900000
+S0007,2026-05-13,NEI-789,Mazda,CX-5,2020,gasoline,P0171,Pierde potencia al acelerar,834.0,86.7,12.29,51.2,44663,Luis Perez,80000
+S0087,2026-05-19,QRS-444,Volkswagen,Gol,2012,gasoline,P0101,Vibración en ralentí,804.0,103.3,12.56,38.0,178354,Carlos Ruiz,900000
+S0065,2026-07-10,XYZ-222,Ford,Ranger,2014,diesel,P0171,Ralentí inestable,831.0,89.3,12.78,41.3,84470,Luis Perez,900000
+S0233,2026-09-21,NEI-789,Mazda,CX-5,2020,gasoline,P0171,Ralentí inestable,971.0,84.4,12.71,45.2,105716,Luis Perez,80000
+S0048,2026-01-19,ABC-111,Hyundai,Tucson,2021,gasoline,P0420,Ralentí inestable,830.0,87.9,12.48,42.5,129379,Marta Soto,150000
+S0211,2026-04-14,HUA-123,Chevrolet,Spark,2018,gasoline,P0300,Vibración en ralentí,795.0,97.2,12.99,40.3,115557,Luis Perez,0
+S0010,2026-02-02,HUB-456,Renault,Logan,2016,gasoline,P0562,Consumo alto,776.0,83.6,12.47,43.0,130039,Luis Perez,450000
+S0035,2026-02-17,ABC-111,Hyundai,Tucson,2021,gasoline,P0420,Vibración en ralentí,881.0,88.1,13.01,43.8,166293,Ana Gomez,450000
+S0224,2026-04-09,HUA-123,Chevrolet,Spark,2018,gasoline,P0300,Consumo alto,848.0,83.6,12.49,38.1,128073,Ana Gomez,320000
+S0139,2026-02-05,NEI-789,Mazda,CX-5,2020,gasoline,P0562,Luz MIL encendida,861.0,84.5,12.57,43.7,82289,Luis Perez,0
+S0205,2026-07-27,HUA-123,Chevrolet,Spark,2018,gasoline,P0420,Luz MIL encendida,871.0,91.4,12.75,45.2,168007,Luis Perez,150000
+S0124,2026-06-05,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Arranque difícil,941.0,88.4,12.18,47.1,52208,Marta Soto,150000
+S0210,2026-07-28,QRS-444,Volkswagen,Gol,2012,gasoline,P0562,Pierde potencia al acelerar,893.0,87.3,12.61,38.7,210698,Luis Perez,900000
+S0101,2026-01-08,XYZ-222,Ford,Ranger,2014,diesel,P0420,Consumo alto,846.0,80.2,12.16,41.1,38165,Marta Soto,0
+S0054,2026-06-21,HUB-456,Renault,Logan,2016,gasoline,P0420,Vibración en ralentí,915.0,82.5,13.4,51.4,196614,Ana Gomez,320000
+S0188,2026-09-22,HUB-456,Renault,Logan,2016,gasoline,P0118,Vibración en ralentí,818.0,88.3,12.82,48.7,168632,Ana Gomez,80000
+S0232,2026-05-08,PIT-987,Nissan,Frontier,2017,diesel,P0300,Consumo alto,888.0,97.0,12.18,41.6,66141,Marta Soto,450000
+S0092,2026-02-18,HUA-123,Chevrolet,Spark,2018,gasoline,P0101,Pierde potencia al acelerar,782.0,96.1,12.56,47.9,197391,Ana Gomez,150000
+S0214,2026-05-25,XYZ-222,Ford,Ranger,2014,diesel,P0101,Pierde potencia al acelerar,876.0,92.4,12.12,44.4,136966,Carlos Ruiz,0
+S0071,2026-08-14,NEI-789,Mazda,CX-5,2020,gasoline,P0420,Consumo alto,790.0,88.3,12.52,44.5,72159,Marta Soto,150000
+S0222,2026-07-28,LMN-333,Suzuki,Swift,2013,gasoline,P0420,Pierde potencia al acelerar,1004.0,93.0,12.38,31.5,185666,Carlos Ruiz,900000
+S0174,2026-03-25,HUB-456,Renault,Logan,2016,gasoline,P0118,Vibración en ralentí,843.0,86.9,12.92,49.3,154701,Ana Gomez,320000
+S0143,2026-05-10,PIT-987,Nissan,Frontier,2017,diesel,P0118,Luz MIL encendida,799.0,86.8,12.46,36.8,41103,Marta Soto,900000
+S0118,2026-08-19,QRS-444,Volkswagen,Gol,2012,gasoline,P0562,Unknown,919.0,88.3,12.23,35.7,194421,Marta Soto,150000
+S0050,2026-02-21,PIT-987,Nissan,Frontier,2017,diesel,P0299,Ralentí inestable,865.0,90.3,12.61,53.5,192879,Ana Gomez,80000
+S0047,2026-08-14,TLM-321,Toyota,Hilux,2015,diesel,P0101,Arranque difícil,782.0,94.8,12.79,32.8,152523,Carlos Ruiz,80000
+S0061,2026-09-24,XYZ-222,Ford,Ranger,2014,diesel,P0101,Pierde potencia al acelerar,844.0,92.3,12.7,46.0,77039,Ana Gomez,150000
+S0006,2026-06-12,PIT-987,Nissan,Frontier,2017,diesel,P0299,Arranque difícil,805.0,83.2,12.54,39.9,196455,Ana Gomez,80000
+S0032,2026-04-14,PIT-987,Nissan,Frontier,2017,diesel,P0562,Unknown,900.0,96.5,12.52,43.1,153388,Marta Soto,80000
+S0002,2026-04-07,HUA-123,Chevrolet,Spark,2018,gasoline,P0300,Consumo alto,788.0,86.2,12.47,32.9,139974,Luis Perez,80000
+S0111,2026-09-07,ABC-111,Hyundai,Tucson,2021,gasoline,P0101,Luz MIL encendida,834.0,92.0,12.37,34.8,168132,Carlos Ruiz,900000
+S0148,2026-08-03,NEI-789,Mazda,CX-5,2020,gasoline,P0562,Luz MIL encendida,843.0,86.8,13.12,41.3,113778,Carlos Ruiz,900000
+S0012,2026-05-24,HUA-123,Chevrolet,Spark,2018,gasoline,P0118,Arranque difícil,855.0,84.1,13.04,41.3,197496,Ana Gomez,450000
+S0001,2026-05-24,HUB-456,Renault,Logan,2016,gasoline,P0300,Unknown,866.0,88.3,12.22,30.7,52790,Carlos Ruiz,450000
+S0059,2026-04-23,TLM-321,Toyota,Hilux,2015,diesel,P0171,Luz MIL encendida,820.0,85.9,12.25,40.2,174281,Marta Soto,150000
+S0172,2026-02-23,HUA-123,Chevrolet,Spark,2018,gasoline,P0101,Arranque difícil,928.0,86.6,12.6,37.8,171184,Luis Perez,150000
+S0027,2026-02-09,HUB-456,Renault,Logan,2016,gasoline,P0299,Vibración en ralentí,848.0,87.1,12.55,46.0,119884,Luis Perez,80000
+S0066,2026-03-08,HUB-456,Renault,Logan,2016,gasoline,P0299,Ralentí inestable,854.0,90.2,12.09,44.5,106351,Luis Perez,0
+S0041,2026-03-08,XYZ-222,Ford,Ranger,2014,diesel,P0171,Unknown,802.0,80.2,13.13,32.4,141449,Marta Soto,80000
+S0095,2026-03-24,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Vibración en ralentí,786.0,88.3,11.89,32.6,103332,Luis Perez,0
+S0155,2026-06-20,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Vibración en ralentí,966.0,92.6,13.45,49.1,181197,Ana Gomez,150000
+S0142,2026-02-26,LMN-333,Suzuki,Swift,2013,gasoline,P0101,Pierde potencia al acelerar,793.0,92.4,12.85,41.9,107009,Carlos Ruiz,150000
+S0168,2026-06-15,TLM-321,Toyota,Hilux,2015,diesel,P0300,Vibración en ralentí,903.0,96.2,12.02,47.5,153628,Carlos Ruiz,900000
+S0238,2026-04-04,XYZ-222,Ford,Ranger,2014,diesel,P0562,Unknown,880.0,83.8,12.23,49.6,195877,Ana Gomez,320000
+S0192,2026-05-17,HUA-123,Chevrolet,Spark,2018,gasoline,P0299,Ralentí inestable,889.0,88.3,12.37,49.4,206300,Luis Perez,150000
+S0171,2026-09-12,PIT-987,Nissan,Frontier,2017,diesel,P0171,Ralentí inestable,846.0,90.3,12.43,36.7,133424,Luis Perez,150000
+S0160,2026-08-15,XYZ-222,Ford,Ranger,2014,diesel,P0420,Arranque difícil,824.0,90.0,12.25,46.1,93105,Luis Perez,80000
+S0020,2026-09-28,XYZ-222,Ford,Ranger,2014,diesel,P0562,Consumo alto,846.0,95.9,13.14,28.4,91965,Marta Soto,80000
+S0218,2026-07-11,PIT-987,Nissan,Frontier,2017,diesel,P0171,Luz MIL encendida,882.0,89.6,12.54,55.1,82652,Ana Gomez,320000
+S0181,2026-07-06,XYZ-222,Ford,Ranger,2014,diesel,P0101,Luz MIL encendida,723.0,89.8,12.5,37.0,60779,Luis Perez,900000
+S0135,2026-08-27,HUB-456,Renault,Logan,2016,gasoline,P0300,Pierde potencia al acelerar,767.0,88.4,12.03,37.7,106355,Luis Perez,320000
+S0070,2026-01-08,HUA-123,Chevrolet,Spark,2018,gasoline,P0300,Consumo alto,884.0,84.1,12.62,38.3,166043,Luis Perez,900000
+S0110,2026-01-03,QRS-444,Volkswagen,Gol,2012,gasoline,P0420,Consumo alto,896.0,95.8,12.56,37.8,203523,Marta Soto,320000
+S0086,2026-07-10,PIT-987,Nissan,Frontier,2017,diesel,P0420,Ralentí inestable,850.0,99.7,12.72,47.6,156670,Marta Soto,0
+S0008,2026-04-03,ABC-111,Hyundai,Tucson,2021,gasoline,P0101,Ralentí inestable,887.0,87.0,12.38,37.0,198519,Luis Perez,320000
+S0182,2026-03-08,QRS-444,Volkswagen,Gol,2012,gasoline,P0299,Arranque difícil,907.0,96.8,12.27,38.2,173978,Ana Gomez,320000
+S0069,2026-07-10,XYZ-222,Ford,Ranger,2014,diesel,P0118,Luz MIL encendida,846.0,90.0,12.54,42.8,143253,Luis Perez,900000
+S0033,2026-04-27,PIT-987,Nissan,Frontier,2017,diesel,P0101,Vibración en ralentí,889.0,90.5,12.22,52.6,103170,Marta Soto,150000
+S0096,2026-04-15,TLM-321,Toyota,Hilux,2015,diesel,P0171,Consumo alto,924.0,94.4,11.54,37.4,124024,Luis Perez,0
+S0043,2026-08-06,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Vibración en ralentí,847.0,93.8,12.16,34.2,166655,Ana Gomez,320000
+S0067,2026-08-28,GAR-654,Kia,Picanto,2019,gasoline,P0118,Consumo alto,798.0,79.5,12.73,33.8,203325,Carlos Ruiz,80000
+S0133,2026-08-27,HUA-123,Chevrolet,Spark,2018,gasoline,P0101,Luz MIL encendida,899.0,82.6,12.06,43.6,50768,Ana Gomez,0
+S0134,2026-09-24,NEI-789,Mazda,CX-5,2020,gasoline,P0420,Arranque difícil,888.0,92.7,12.56,43.8,140054,Marta Soto,900000
+S0089,2026-01-21,HUB-456,Renault,Logan,2016,gasoline,P0118,Vibración en ralentí,854.0,88.7,12.46,44.4,107361,Marta Soto,150000
+S0042,2026-02-08,HUA-123,Chevrolet,Spark,2018,gasoline,P0420,Arranque difícil,895.0,94.2,12.1,40.5,113177,Marta Soto,320000
+S0003,2026-03-26,HUA-123,Chevrolet,Spark,2018,gasoline,P0562,Consumo alto,807.0,91.9,12.75,51.9,56793,Carlos Ruiz,0
+S0036,2026-06-03,PIT-987,Nissan,Frontier,2017,diesel,P0171,Consumo alto,804.0,90.3,12.54,37.0,111077,Luis Perez,900000
+S0219,2026-08-10,ABC-111,Hyundai,Tucson,2021,gasoline,P0101,Arranque difícil,861.0,85.6,12.47,41.3,125686,Ana Gomez,0
+S0031,2026-07-18,PIT-987,Nissan,Frontier,2017,diesel,P0562,Pierde potencia al acelerar,850.0,78.6,12.62,45.6,76413,Ana Gomez,320000
+S0227,2026-02-11,HUA-123,Chevrolet,Spark,2018,gasoline,P0562,Luz MIL encendida,893.0,79.0,12.57,34.8,174679,Marta Soto,80000
+S0176,2026-08-13,HUA-123,Chevrolet,Spark,2018,gasoline,P0562,Arranque difícil,843.0,85.0,13.33,36.5,32429,Carlos Ruiz,150000
+S0157,2026-01-23,XYZ-222,Ford,Ranger,2014,diesel,P0300,Luz MIL encendida,786.0,92.1,12.76,49.9,111941,Luis Perez,900000
+S0117,2026-03-04,NEI-789,Mazda,CX-5,2020,gasoline,P0299,Unknown,877.0,88.3,12.64,33.3,76437,Marta Soto,900000
+S0030,2026-05-02,ABC-111,Hyundai,Tucson,2021,gasoline,P0299,Ralentí inestable,936.0,84.7,13.15,32.1,85070,Carlos Ruiz,900000
+S0178,2026-03-09,XYZ-222,Ford,Ranger,2014,diesel,P0118,Vibración en ralentí,841.0,90.3,11.99,37.8,76004,Marta Soto,450000
+S0023,2026-03-03,HUA-123,Chevrolet,Spark,2018,gasoline,P0420,Arranque difícil,843.0,85.8,12.62,45.0,179336,Carlos Ruiz,80000
+S0063,2026-03-11,XYZ-222,Ford,Ranger,2014,diesel,P0171,Arranque difícil,848.0,99.9,12.71,43.4,158908,Carlos Ruiz,0
+S0015,2026-09-09,LMN-333,Suzuki,Swift,2013,gasoline,P0299,Luz MIL encendida,813.0,91.6,11.97,39.6,82730,Marta Soto,900000
+S0112,2026-01-20,TLM-321,Toyota,Hilux,2015,diesel,P0171,Pierde potencia al acelerar,891.0,101.6,12.67,31.9,105876,Carlos Ruiz,150000
+S0179,2026-02-11,ABC-111,Hyundai,Tucson,2021,gasoline,P0420,Luz MIL encendida,831.0,87.2,12.56,46.1,95024,Marta Soto,0
+S0194,2026-06-02,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Consumo alto,800.0,82.3,12.43,47.7,69116,Ana Gomez,150000
+S0017,2026-01-03,HUA-123,Chevrolet,Spark,2018,gasoline,P0299,Arranque difícil,890.0,91.6,12.56,38.4,64684,Marta Soto,900000
+S0165,2026-05-20,NEI-789,Mazda,CX-5,2020,gasoline,P0171,Pierde potencia al acelerar,792.0,98.0,11.98,40.1,108588,Luis Perez,320000
+S0240,2026-02-27,LMN-333,Suzuki,Swift,2013,gasoline,P0118,Vibración en ralentí,843.0,88.3,13.69,32.8,201939,Ana Gomez,80000
+S0167,2026-03-16,HUA-123,Chevrolet,Spark,2018,gasoline,P0420,Pierde potencia al acelerar,793.0,85.0,12.72,39.1,208448,Carlos Ruiz,80000
+S0163,2026-02-27,LMN-333,Suzuki,Swift,2013,gasoline,P0101,Ralentí inestable,843.0,88.3,12.7,36.8,125841,Marta Soto,80000
+S0234,2026-06-02,XYZ-222,Ford,Ranger,2014,diesel,P0420,Consumo alto,811.0,90.3,12.22,47.1,201198,Marta Soto,320000
+S0084,2026-03-26,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Ralentí inestable,887.0,88.3,12.15,48.1,160460,Ana Gomez,450000
+S0199,2026-09-15,GAR-654,Kia,Picanto,2019,gasoline,P0171,Consumo alto,820.0,88.3,12.13,41.4,55849,Luis Perez,900000
+S0207,2026-07-13,HUB-456,Renault,Logan,2016,gasoline,P0171,Luz MIL encendida,766.0,91.1,12.55,39.6,143746,Carlos Ruiz,900000
+S0131,2026-07-05,XYZ-222,Ford,Ranger,2014,diesel,P0420,Pierde potencia al acelerar,890.0,88.8,12.25,43.7,36991,Marta Soto,320000
+S0021,2026-07-28,XYZ-222,Ford,Ranger,2014,diesel,P0299,Consumo alto,852.0,90.3,11.89,50.7,149277,Marta Soto,150000
+S0080,2026-06-19,NEI-789,Mazda,CX-5,2020,gasoline,P0420,Consumo alto,895.0,86.2,12.16,40.9,219384,Ana Gomez,80000
+S0202,2026-06-06,XYZ-222,Ford,Ranger,2014,diesel,P0171,Arranque difícil,898.0,94.8,12.94,42.0,198246,Carlos Ruiz,0
+S0072,2026-09-13,GAR-654,Kia,Picanto,2019,gasoline,P0118,Pierde potencia al acelerar,800.0,88.3,12.13,56.2,135952,Marta Soto,450000
+S0040,2026-01-01,TLM-321,Toyota,Hilux,2015,diesel,P0299,Ralentí inestable,932.0,89.3,12.65,35.4,195089,Marta Soto,450000
+S0158,2026-06-25,ABC-111,Hyundai,Tucson,2021,gasoline,P0299,Pierde potencia al acelerar,801.0,88.3,12.29,43.0,94990,Carlos Ruiz,80000
+S0200,2026-07-11,TLM-321,Toyota,Hilux,2015,diesel,P0101,Vibración en ralentí,811.0,88.6,12.79,45.7,183100,Marta Soto,450000
+S0138,2026-06-25,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Vibración en ralentí,922.0,91.7,12.7,38.6,209485,Marta Soto,320000
+S0022,2026-04-10,NEI-789,Mazda,CX-5,2020,gasoline,P0299,Arranque difícil,784.0,87.0,12.6,39.9,183138,Ana Gomez,320000
+S0103,2026-05-17,ABC-111,Hyundai,Tucson,2021,gasoline,P0420,Arranque difícil,786.0,89.8,12.65,39.2,201629,Ana Gomez,900000
+S0180,2026-05-25,TLM-321,Toyota,Hilux,2015,diesel,P0171,Pierde potencia al acelerar,819.0,97.6,13.18,42.6,211605,Carlos Ruiz,80000
+S0109,2026-01-24,HUB-456,Renault,Logan,2016,gasoline,P0299,Vibración en ralentí,849.0,86.5,12.28,44.6,127007,Luis Perez,150000
+S0107,2026-06-04,TLM-321,Toyota,Hilux,2015,diesel,P0562,Arranque difícil,846.0,96.3,11.95,37.1,177053,Carlos Ruiz,450000
+S0197,2026-01-20,ABC-111,Hyundai,Tucson,2021,gasoline,P0118,Luz MIL encendida,843.0,97.8,12.52,34.4,155670,Luis Perez,80000
+S0129,2026-08-19,PIT-987,Nissan,Frontier,2017,diesel,P0118,Arranque difícil,863.0,81.4,12.18,41.9,72482,Ana Gomez,80000
+S0183,2026-02-25,TLM-321,Toyota,Hilux,2015,diesel,P0118,Arranque difícil,846.0,92.6,13.05,45.6,46189,Ana Gomez,450000
+S0161,2026-08-10,HUA-123,Chevrolet,Spark,2018,gasoline,P0300,Ralentí inestable,843.0,85.1,12.11,41.3,58179,Luis Perez,320000
+S0074,2026-02-16,XYZ-222,Ford,Ranger,2014,diesel,P0118,Arranque difícil,931.0,88.8,12.62,45.5,174399,Marta Soto,0
+S0130,2026-08-21,GAR-654,Kia,Picanto,2019,gasoline,P0300,Ralentí inestable,824.0,89.2,13.04,32.4,104727,Luis Perez,0
+S0102,2026-08-04,ABC-111,Hyundai,Tucson,2021,gasoline,P0118,Luz MIL encendida,870.0,89.0,12.56,46.0,47218,Luis Perez,80000
+S0203,2026-01-22,HUB-456,Renault,Logan,2016,gasoline,P0562,Arranque difícil,752.0,88.3,12.67,51.3,32396,Marta Soto,80000
+S0016,2026-08-17,PIT-987,Nissan,Frontier,2017,diesel,P0171,Pierde potencia al acelerar,850.0,91.8,13.1,43.0,184256,Carlos Ruiz,80000
+S0011,2026-02-01,LMN-333,Suzuki,Swift,2013,gasoline,P0562,Ralentí inestable,925.0,84.5,12.64,36.6,106939,Marta Soto,320000
+S0056,2026-02-08,PIT-987,Nissan,Frontier,2017,diesel,P0562,Pierde potencia al acelerar,846.0,87.5,12.54,43.8,129349,Marta Soto,150000
+S0068,2026-03-21,LMN-333,Suzuki,Swift,2013,gasoline,P0299,Consumo alto,861.0,88.3,12.77,46.4,179214,Carlos Ruiz,150000
+S0239,2026-01-07,TLM-321,Toyota,Hilux,2015,diesel,P0562,Luz MIL encendida,821.0,93.3,12.26,40.7,214563,Luis Perez,150000
+S0018,2026-07-16,TLM-321,Toyota,Hilux,2015,diesel,P0562,Vibración en ralentí,923.0,94.1,12.35,46.9,44200,Carlos Ruiz,900000
+S0151,2026-08-23,GAR-654,Kia,Picanto,2019,gasoline,P0171,Pierde potencia al acelerar,798.0,92.7,12.42,40.6,113106,Marta Soto,900000
+S0005,2026-02-23,QRS-444,Volkswagen,Gol,2012,gasoline,P0299,Unknown,795.0,82.7,13.38,40.9,56476,Marta Soto,320000
+S0198,2026-02-07,HUA-123,Chevrolet,Spark,2018,gasoline,P0299,Ralentí inestable,919.0,90.0,12.63,50.2,83611,Luis Perez,320000
+S0121,2026-09-16,PIT-987,Nissan,Frontier,2017,diesel,P0420,Arranque difícil,913.0,88.6,12.88,31.4,217253,Ana Gomez,0
+S0196,2026-04-09,ABC-111,Hyundai,Tucson,2021,gasoline,P0299,Pierde potencia al acelerar,768.0,81.0,12.7,41.3,219945,Luis Perez,80000
+S0045,2026-07-14,TLM-321,Toyota,Hilux,2015,diesel,P0300,Pierde potencia al acelerar,790.0,88.6,12.71,48.0,183112,Marta Soto,900000
+S0175,2026-01-10,GAR-654,Kia,Picanto,2019,gasoline,P0101,Consumo alto,825.0,87.0,12.54,41.3,39777,Ana Gomez,80000
+S0140,2026-09-27,LMN-333,Suzuki,Swift,2013,gasoline,P0171,Luz MIL encendida,848.0,98.4,12.74,47.3,42531,Luis Perez,900000
+S0094,2026-01-02,HUB-456,Renault,Logan,2016,gasoline,P0299,Luz MIL encendida,880.0,89.9,12.65,49.4,131881,Marta Soto,320000
+S0108,2026-05-27,QRS-444,Volkswagen,Gol,2012,gasoline,P0118,Ralentí inestable,890.0,97.1,12.47,47.1,31600,Marta Soto,80000
+S0146,2026-03-03,XYZ-222,Ford,Ranger,2014,diesel,P0562,Ralentí inestable,815.0,93.2,12.42,57.0,36793,Marta Soto,900000
+S0215,2026-06-03,PIT-987,Nissan,Frontier,2017,diesel,P0420,Unknown,912.0,90.4,12.72,32.5,176679,Ana Gomez,80000
+S0221,2026-05-21,XYZ-222,Ford,Ranger,2014,diesel,P0299,Consumo alto,846.0,92.9,12.26,44.7,147720,Marta Soto,450000
+S0100,2026-03-02,NEI-789,Mazda,CX-5,2020,gasoline,P0101,Arranque difícil,824.0,91.2,13.0,44.5,124906,Carlos Ruiz,450000
+S0034,2026-02-01,LMN-333,Suzuki,Swift,2013,gasoline,P0101,Vibración en ralentí,917.0,101.5,12.58,41.3,143918,Luis Perez,150000
+S0082,2026-01-18,XYZ-222,Ford,Ranger,2014,diesel,P0562,Pierde potencia al acelerar,927.0,92.9,13.81,32.1,53692,Carlos Ruiz,320000
+S0093,2026-09-20,XYZ-222,Ford,Ranger,2014,diesel,P0300,Vibración en ralentí,887.0,88.2,13.29,46.3,213783,Marta Soto,150000
+S0004,2026-05-12,PIT-987,Nissan,Frontier,2017,diesel,P0562,Vibración en ralentí,841.0,83.9,12.98,41.0,174714,Luis Perez,150000
+S0228,2026-07-26,XYZ-222,Ford,Ranger,2014,diesel,P0299,Consumo alto,884.0,96.6,12.51,42.6,190984,Marta Soto,80000
+S0136,2026-03-14,TLM-321,Toyota,Hilux,2015,diesel,P0420,Arranque difícil,814.0,84.7,11.97,53.4,172627,Carlos Ruiz,450000
+S0019,2026-06-24,HUA-123,Chevrolet,Spark,2018,gasoline,P0171,Ralentí inestable,850.0,93.2,12.2,44.0,103018,Carlos Ruiz,320000
+S0153,2026-05-05,HUB-456,Renault,Logan,2016,gasoline,P0420,Pierde potencia al acelerar,924.0,99.9,12.75,56.4,166025,Luis Perez,150000
+S0164,2026-01-02,LMN-333,Suzuki,Swift,2013,gasoline,P0300,Luz MIL encendida,825.0,81.2,12.37,41.6,165136,Luis Perez,80000
+S0128,2026-04-22,ABC-111,Hyundai,Tucson,2021,gasoline,P0101,Consumo alto,773.0,84.7,12.66,37.7,92696,Ana Gomez,150000
+S0029,2026-07-23,XYZ-222,Ford,Ranger,2014,diesel,P0420,Luz MIL encendida,874.0,90.1,13.24,33.3,173023,Ana Gomez,0
+S0099,2026-03-09,NEI-789,Mazda,CX-5,2020,gasoline,P0420,Luz MIL encendida,843.0,89.0,13.3,43.0,92372,Carlos Ruiz,450000
+S0127,2026-07-20,QRS-444,Volkswagen,Gol,2012,gasoline,P0299,Consumo alto,909.0,98.0,12.56,31.2,73395,Carlos Ruiz,900000
+S0062,2026-09-02,GAR-654,Kia,Picanto,2019,gasoline,P0300,Luz MIL encendida,840.0,87.5,12.91,36.9,33215,Marta Soto,450000
+S0204,2026-08-20,PIT-987,Nissan,Frontier,2017,diesel,P0300,Luz MIL encendida,846.0,90.0,12.54,41.7,168783,Luis Perez,900000
