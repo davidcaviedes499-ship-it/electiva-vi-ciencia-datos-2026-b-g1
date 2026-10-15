@@ -1,0 +1,96 @@
+{
+  "antes": {
+    "etiqueta": "antes",
+    "filas": 252,
+    "columnas": 16,
+    "nulos_totales": 91,
+    "nulos_por_columna": {
+      "symptom": 10,
+      "rpm": 26,
+      "coolant_temp_c": 21,
+      "battery_v": 18,
+      "map_kpa": 16
+    },
+    "filas_duplicadas": 12,
+    "session_id_repetidos": 12,
+    "tipos": {
+      "session_id": "str",
+      "date": "str",
+      "plate": "str",
+      "brand": "str",
+      "model": "str",
+      "year": "int64",
+      "fuel": "str",
+      "dtc_code": "str",
+      "symptom": "str",
+      "rpm": "float64",
+      "coolant_temp_c": "float64",
+      "battery_v": "float64",
+      "map_kpa": "float64",
+      "mileage_km": "str",
+      "technician": "str",
+      "repair_cost_cop": "str"
+    },
+    "valores_distintos": {
+      "plate": 18,
+      "brand": 27,
+      "technician": 4,
+      "dtc_code": 12
+    },
+    "atipicos_fuera_de_rango": {
+      "rpm": 7,
+      "coolant_temp_c": 5,
+      "battery_v": 0,
+      "map_kpa": 0
+    },
+    "formatos_de_fecha": {
+      "ISO aaaa-mm-dd": 97,
+      "dd/mm/aaaa": 72,
+      "d-m-aaaa": 83
+    }
+  },
+  "despues": {
+    "etiqueta": "después",
+    "filas": 240,
+    "columnas": 16,
+    "nulos_totales": 0,
+    "nulos_por_columna": {},
+    "filas_duplicadas": 0,
+    "session_id_repetidos": 0,
+    "tipos": {
+      "session_id": "string",
+      "date": "str",
+      "plate": "string",
+      "brand": "string",
+      "model": "string",
+      "year": "int64",
+      "fuel": "string",
+      "dtc_code": "string",
+      "symptom": "string",
+      "rpm": "float64",
+      "coolant_temp_c": "float64",
+      "battery_v": "float64",
+      "map_kpa": "float64",
+      "mileage_km": "int64",
+      "technician": "string",
+      "repair_cost_cop": "int64"
+    },
+    "valores_distintos": {
+      "plate": 10,
+      "brand": 10,
+      "technician": 4,
+      "dtc_code": 7
+    },
+    "atipicos_fuera_de_rango": {
+      "rpm": 0,
+      "coolant_temp_c": 0,
+      "battery_v": 0,
+      "map_kpa": 0
+    },
+    "formatos_de_fecha": {
+      "ISO aaaa-mm-dd": 240,
+      "dd/mm/aaaa": 0,
+      "d-m-aaaa": 0
+    }
+  }
+}
