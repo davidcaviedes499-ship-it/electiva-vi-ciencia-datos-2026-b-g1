@@ -1,0 +1,13 @@
+{
+  "_captura": {
+    "fuente": "https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeYear/make/mazda/modelyear/2020?format=json",
+    "fecha": "2026-10-14",
+    "nota": "Se guardaron solo los 3 primeros de los 8 registros que devolvió la API (Count = 8). Sirve de respaldo cuando no hay conexión a la API."
+  },
+  "Count": 8,
+  "Results": [
+    {"Make_ID": 473, "Make_Name": "MAZDA", "Model_ID": 2072, "Model_Name": "MX-5"},
+    {"Make_ID": 473, "Make_Name": "MAZDA", "Model_ID": 2074, "Model_Name": "Mazda3"},
+    {"Make_ID": 473, "Make_Name": "MAZDA", "Model_ID": 2077, "Model_Name": "CX-9"}
+  ]
+}
