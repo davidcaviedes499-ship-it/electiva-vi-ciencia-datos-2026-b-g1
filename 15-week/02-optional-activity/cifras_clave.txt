@@ -1,0 +1,5 @@
+Acciones con precio (Prime/Standard/Growth): 3,762
+Prime Market: 1,838 acciones (48.9%) = 95.8% del valor; capitalización mediana ¥61.4 mil millones
+Standard Market: 1,466 acciones (39.0%) = 3.1% del valor; capitalización mediana ¥6.3 mil millones
+Growth Market: 458 acciones (12.2%) = 1.2% del valor; capitalización mediana ¥7.6 mil millones
+Mediana Prime / Standard: 9.7 veces
