@@ -1,0 +1,11 @@
+Filas en la tabla: 2,060,500  |  filas devueltas: 40,500  |  mismo resultado: True
+Corridas por consulta: 5 (se reporta la mediana)
+
+ANTES   (SELECT *, función en el WHERE)      :    225.8 ms
+   plan : SCAN acciones
+SOLO REESCRITA (columnas + igualdad, sin índice) :    108.3 ms
+   plan : SCAN acciones
+DESPUÉS (columnas + igualdad + índice)       :     14.1 ms
+   plan : SEARCH acciones USING COVERING INDEX idx_sector (sector17_name=?)
+
+Mejora total: 16 veces más rápida
