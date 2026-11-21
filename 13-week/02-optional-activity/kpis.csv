@@ -1,0 +1,4 @@
+kpi,valor,objetivo,cumple
+Peso del mercado Prime en la capitalización (%),95.7,>= 90,True
+Peso del sector líder en la capitalización (%),20.1,<= 25,True
+Acciones con cierre menor a ¥1.000 (%),39.1,<= 35,False
